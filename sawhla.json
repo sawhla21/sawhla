@@ -3,15 +3,43 @@
 
 {
          "name": "SG-T&D-FREE-001",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-001.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_1_Direct_Connection.ovpn.txt"
       },
 {
          "name": "SG-T&D-FREE-002",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-002.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_2_Direct_Connection.ovpn.txt"
       },
 {
          "name": "SG-T&D-FREE-003",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_3_Direct_Connection.ovpn.txt"
+
+{
+         "name": "SG-T&D-FREE-004",
+         "url": " "
+      },https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_4_GIGA_Video_1.ovpn.txt
+{
+
+         "name": "SG-T&D-FREE-005",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_6_Direct_Connection.ovpn.txt"
+      },
+{
+         "name": "SG-T&D-FREE-006",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-003.ovpn"
+      }
+],
+{
+         "name": "SG-T&D-FREE-007",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-001.ovpn"
+      },
+{
+         "name": "SG-T&D-FREE-008",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-002.ovpn"
+      },
+{
+         "name": "SG-T&D-FREE-009",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-003.ovpn"
+      }
+],
       }
 ],
 "message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 2\n\n•2023မှာ ညီအစ်ကိုတွေအားလုံး ကံကောင်းခြင်းတွေနှင့်အတူ
