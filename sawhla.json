@@ -1,43 +1,27 @@
 {
-   "files": [
-      },
-{
-         "name": "SG-T&D-FREE-002",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_2_Direct_Connection.ovpn.txt"
-      },
-{
-         "name": "SG-T&D-FREE-003",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_3_Direct_Connection.ovpn.txt"
+   "files": [    
 
 {
-         "name": "SG-T&D-FREE-004",
-         "url": " "
-      },https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_4_GIGA_Video_1.ovpn.txt
-{
-
-         "name": "SG-T&D-FREE-005",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/eutvpn-Sawhla_Singapore_6_Direct_Connection.ovpn.txt"
+         "name": "TH-VIP-001",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-014.ovpn"
       },
 {
-         "name": "SG-T&D-FREE-006",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-003.ovpn"
+         "name": "TH-VIP-002",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-015.ovpn"
+      },
+{
+         "name": "TH-VIP-003",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-011.ovpn"
+      },
+{
+         "name": "TH-VIP-004",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
+      },
+{
+         "name": "TH-VIP-005",
+         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/TH-VIP-015.ovpn"
       }
 ],
-{
-         "name": "SG-T&D-FREE-007",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-001.ovpn"
-      },
-{
-         "name": "SG-T&D-FREE-008",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-002.ovpn"
-      },
-{
-         "name": "SG-T&D-FREE-009",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-003.ovpn"
-      }
-],
-"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 2\n\n•2023မှာ ညီအစ်ကိုတွေအားလုံး ကံကောင်းခြင်းတွေနှင့်အတူ
-ပျော်ရွှင်စွာကြပါစေ🙏\n\n•Config By:Sawhla-freenet ",
-   "title":"Add Dtac&True auto update file" ,
-   "version": 11
-}
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNetchitthu ",
+   "title":"Add DTAC&TRUE auto update file" ,
+   "version": 2
