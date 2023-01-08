@@ -1,11 +1,5 @@
 {
-   "files": [    
-
-{
-         "name": "SG-T&D-FREE-002",
-         "url": "https://raw.githubusercontent.com
-/Mcminmin/SawHla/main/
-Free-001.ovpn "
+   "files": [
       },
 {
          "name": "SG-T&D-FREE-002",
@@ -42,10 +36,8 @@ Free-001.ovpn "
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LINDOES-D%26T-003.ovpn"
       }
 ],
-      }
-],
 "message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 2\n\n•2023မှာ ညီအစ်ကိုတွေအားလုံး ကံကောင်းခြင်းတွေနှင့်အတူ
 ပျော်ရွှင်စွာကြပါစေ🙏\n\n•Config By:Sawhla-freenet ",
    "title":"Add Dtac&True auto update file" ,
-   "version": 10
+   "version": 11
 }
