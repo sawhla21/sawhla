@@ -3,35 +3,35 @@
 
 {
          "name": "SG-VIP-001",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_1.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_1.ovpn"
       },
 {
          "name": "SG-VIP-002",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_2.ovp"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_2.ovpn"
       },
 {
          "name": "SG-VIP-003",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_3.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_3.ovpn"
       },
 {
          "name": "SG-VIP-004",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_4.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_4.ovpn"
       },
 {
          "name": "SG-VIP-005",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_5.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_5.ovpn"
       },
 {
          "name": "SG-VIP-006",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_6.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_6.ovpn"
       },
 {
          "name": "SG-VIP-007",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_7.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_7.ovpn"
       },
 {
          "name": "SG-VIP-008",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/DTAC_8.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/VIP_9.ovpn"
       },
 {
          "name": "SG-VIP-009",
@@ -42,7 +42,7 @@
          "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/OPEN-SG10.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 19\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 29\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 25
+   "version": 26
 }
