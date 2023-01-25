@@ -39,10 +39,10 @@
       },
 {
          "name": "SG-VIP-010",
-         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/TRUE_10.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/SAWHLA0/main/OPEN-SG10.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 17\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 18\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 23
+   "version": 24
 }
