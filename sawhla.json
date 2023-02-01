@@ -3,15 +3,15 @@
 
 {
          "name": "SG-VIP-001",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_002.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_001.ovpn"
       },
 {
          "name": "SG-VIP-002",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_003.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_002.ovpn"
       },
 {
          "name": "SG-VIP-003",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_004.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_003.ovpn"
       },
 {
          "name": "SG-VIP-004",
@@ -42,7 +42,7 @@
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 33\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 34\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 29
+   "version": 30
 }
