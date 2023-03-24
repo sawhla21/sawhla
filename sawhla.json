@@ -2,47 +2,47 @@
    "files": [    
 
 {
-         "name": "SG-VIP-001",
+         "name": "TH-VIP-001",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_001.ovpn"
       },
 {
-         "name": "SG-VIP-002",
+         "name": "TH-VIP-002",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_002.ovpn"
       },
 {
-         "name": "SG-VIP-003",
+         "name": "TH-VIP-003",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_003.ovpn"
       },
 {
-         "name": "SG-VIP-004",
+         "name": "TH-VIP-004",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_004.ovpn"
       },
 {
-         "name": "SG-VIP-005",
+         "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_005.ovpn"
       },
 {
-         "name": "SG-VIP-006",
+         "name": "TH-VIP-006",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_006.ovpn"
       },
 {
-         "name": "SG-VIP-007",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_007.ovpn"
+         "name": "TH-VIP-007",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_006.ovpn"
       },
 {
-         "name": "SG-VIP-008",
+         "name": "TH-VIP-008",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_008.ovpn"
       },
 {
-         "name": "SG-VIP-009",
+         "name": "TH-VIP-009",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_009.ovpn"
       },
 {
-         "name": "SG-VIP-010",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_010.ovpn41"
+         "name": "TH-VIP-010",
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 43\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 44\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 39
+   "version": 40
 }
