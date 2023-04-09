@@ -35,14 +35,14 @@
       },
 {
          "name": "TH-VIP-009",
-         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_009.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_010.ovpn"
       },
 {
          "name": "TH-VIP-010",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 50\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 51\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 46
+   "version": 47
 }
