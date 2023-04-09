@@ -2,7 +2,7 @@
    "files": [    
 
 {
-         "name": "SH-VIP-001",
+         "name": "SG-VIP-001",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_001.ovpn"
       },
 {
@@ -42,7 +42,7 @@
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/VIP_010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 48\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 49\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 44
+   "version": 45
 }
