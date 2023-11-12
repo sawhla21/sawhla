@@ -3,46 +3,46 @@
 
 {
          "name": "ID-VIP-001",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_001.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-001.ovpn"
       },
 {
          "name": "ID-VIP-002",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_002.ovpn."
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-002.."
       },
 {
          "name": "ID-VIP-003",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_003.ovpn."
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-003.ovpn."
       },
 {
          "name": "ID-VIP-004",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_004.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-004."
       },
 {
          "name": "ID-VIP-005",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_005.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-005.ovpn"
       },
 {
          "name": "ID-VIP-006",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_006.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-006."
       },
 {
          "name": "ID-VIP-007",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_007.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-007.ovpn"
       },
 {
          "name": "ID-VIP-008",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_008.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-008."
       },
 {
          "name": "ID-VIP-009",
-         "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_009.ovpn"
+         "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-009.ovp"
       },
 {
          "name": "ID-VIP-010",
          "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 73\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 74\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 69
+   "version": 70
 }
