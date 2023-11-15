@@ -6,23 +6,23 @@
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-001.ovpn"
       },
 {
-         "name": "SG-VIP-002",
+         "name": "US-VIP-002",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-002.ovpn"
       },
 {
-         "name": "SG-VIP-003",
+         "name": "US-VIP-003",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-003.ovpn"
       },
 {
-         "name": "SG-VIP-004",
+         "name": "US-VIP-004",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-004.ovpn"
       },
 {
-         "name": "SG-VIP-005",
+         "name": "US-VIP-005",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-005.ovpn"
       },
 {
-         "name": "SG-VIP-006",
+         "name": "TH-VIP-006",
          "url": "https://raw.githubusercontent.com/sawhla21/sawhla/main/LAZADA-006.ovpn"
       },
 {
@@ -42,7 +42,7 @@
          "url": "https://github.dev/sawhla21/sawhla/blob/main/VIP_010.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 75\n\nConfig By:SAWHLA FTRRNET ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 76\n\nConfig By:SAWHLA FTRRNET ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 71
+   "version": 72
 }
